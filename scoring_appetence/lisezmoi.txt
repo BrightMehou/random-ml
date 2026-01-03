@@ -1,0 +1,12 @@
+Projet : Indicateur de performance d’un score : Le Gain Chart
+
+Fichiers: 
+Jeu de données (GV_MKT_data_scoring_appetence.csv).
+Dictionnaire des données (GV_MKT_Dictionnaire de données.txt).
+Documentation : Gain Chart.doc
+
+Objectif : Modélisation de l'appétence
+
+Méthodes : Le but du sujet est la modélisation de l'appétence au crédit des clients d'une société financière. Pour ce faire, vous nettoyez le jeu de données et utilisez le potentiel des variables au mieux. Vous mesurez les performances de votre modélisation à l'aide de 2 indicateurs :
+L’indice de Gini & le Gain Chart : L’indice de Gini est un indicateur qui permet de juger de la performance d’un modèle (en comparaison au modèle parfait et au modèle aléatoire). Le Gain Chart est le graphique associé qui permet de fixer la (ou les) barre(s) de score, limite à partir de laquelle un client peut être jugé comme appétant par le score.
+

@@ -1,0 +1,2 @@
+Le but de ce projet est dans un premier temps de crée un modèle capable de prédire l’age (Rings) des
+coquillages. Le second est de construire une règle de décision permettant de distinger les Males des Femelles.

@@ -1,0 +1,55 @@
+
+Projet “Temps projet” 
+Fichier : temps.txt
+
+Estimation de l'effort pour realiser un logiciel (temps de programmation) en fonction de divers parametres (taille du programme (function point count), OS, environement de programmation...)
+
+Objectif : Trouver un modele de regression reliant le temps de réalisation d'un logiciel ("work time") l'environement de programmation, taille du logiciel, etc. Analyse de la régression. 
+
+
+
+
+
+NAME: Evaluating Aptness of a Regression Model
+
+TYPE: Full population of data (all software projects completed by the AT&T data center from 1986 through 1991). 
+
+SIZE: 104 observations, 5 variables 
+
+DESCRIPTIVE ABSTRACT:
+Values for function point count, actual work hours, operating system, database management system, and programming 
+language are recorded for 104 software projects from AT&T.  Function point counts are often used to help predict the 
+number of work hours that will be required to complete a proposed software project.  
+This data can be used to demonstrate the development and evaluation of a linear regression model. 
+In particular this is an excellent data set for demonstrating violations of the standard assumptions of 
+linear regression, and how to address those violations.
+
+SOURCE: 
+The data were generously provided by AT&T.
+
+VARIABLE DESCRIPTIONS:
+Columns    Variable
+1-4	Function Point Count
+9-13	Work Hours
+17	Operating System:
+		(0) Unix
+		(1) MVS
+25	Database Management System:			
+		(1) IDMS		
+		(2) IMS		
+		(3) INFORMIX	
+		(4) INGRESS	
+		(5) Other		 
+33	Language:
+		(1) COBOL
+		(2) PLI
+		(3) C
+		(4) Other
+
+STORY BEHIND THE DATA:
+Function points are a standard metric used for estimating the size of software development projects
+(International Function Point Users Group, 2005).  As the number of function points for a proposed software 
+project increases, so will the estimate of development effort required to produce the software increase. 
+Regression models based on function points are an important tool used in the management of software 
+development projects.
+

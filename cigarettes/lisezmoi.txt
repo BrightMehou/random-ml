@@ -1,0 +1,40 @@
+
+Projet Cigarettes
+Analyse des plusieures marques de cigarettes.
+Fichier : cigarettes.txt
+
+Objectif : Exploration des donnees, typologie des marques de cigarettes, Explication de la variable "Contenu de Monoxide de Carbon".
+ 
+
+
+
+DESCRIPTIVE ABSTRACT:
+Measurements of weight and tar, nicotine, and carbon monoxide content
+are given for 25 brands of domestic cigarettes.
+
+SOURCES: 
+Mendenhall, William, and Sincich, Terry (1992), _Statistics for
+Engineering and the Sciences_ (3rd ed.), New York: Dellen Publishing
+Co. (ISBN: 0 02380552 8)  
+(Original source: Federal Trade Commission, USA)
+
+VARIABLE DESCRIPTIONS: 
+Brand name 
+Tar content (mg) 
+Nicotine content (mg) 
+Weight (g)
+Carbon monoxide content (mg)
+
+Values are delimited by blanks.  There are no missing values.
+
+SPECIAL NOTES:
+Observation 3 (Bull Durham) is an outlying point.
+
+STORY BEHIND THE DATA:
+The Federal Trade Commission annually rates varieties of domestic
+cigarettes according to their tar, nicotine, and carbon monoxide
+content.  The United States Surgeon General considers each of these
+substances hazardous to a smoker's health.  Past studies have shown
+that increases in the tar and nicotine content of a cigarette are
+accompanied by an increase in the carbon monoxide emitted from the
+cigarette smoke.
