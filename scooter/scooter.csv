@@ -1,0 +1,419 @@
+﻿ident;sexe;âge;CSP;type-cylindrée;type-utilisation;critère-esthétique;note-satisfaction;imp-magasin;imp-marque;imp-esthétique;imp-prix;imp-confort-pilote;imp-confort-passager;imp-dimensions;imp-freinage;imp-cylindrée;imp-antivol;imp-tableau-de-bord;imp-accessoires;imp-rangement;imp-propulsion;imp-refroidissement;imp-tablier-avant;imp-feux;imp-fiabilité-moteur
+001;femme;25-29 ans;employé;125;domicile-travail;à la mode;8;5;3;5;4;5;4;4;3;4;5;4;5;4;3;3;3;4;4
+002;homme;30-39 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;10;4;4;5;3;4;4;4;4;5;2;3;5;5;5;5;4;5;5
+003;homme;25-29 ans;employé;150-200;domicile-travail;sportif;8;2;4;5;4;4;4;3;4;4;3;2;2;4;5;3;1;4;5
+004;homme;30-39 ans;ouvrier;125;domicile-travail;innovant nouveau;8;4;4;4;4;3;2;4;5;4;2;2;4;4;3;2;2;3;4
+005;homme;40-49 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;9;3;3;4;4;4;2;3;4;5;3;4;4;4;5;5;5;5;5
+006;homme;30-39 ans;classe supérieure moyenne;250-400;domicile-travail;discret / sobre;9;5;3;4;3;4;4;4;5;4;4;3;3;4;4;4;5;5;5
+007;homme;25-29 ans;classe moyenne;250-400;domicile-travail;sportif;7;3;3;5;5;5;4;3;5;4;3;3;3;3;5;5;5;5;4
+008;homme;25-29 ans;employé;150-200;domicile-travail;classique;9;1;5;5;3;5;3;3;5;4;5;4;3;3;3;2;4;5;5
+009;femme;30-39 ans;employé;150-200;domicile-travail;classique;9;2;4;5;4;4;4;5;1;4;1;3;3;3;3;3;3;3;5
+010;homme;50 et +;classe supérieure moyenne;250-400;domicile-travail;innovant nouveau;9;3;4;4;5;5;3;5;5;5;3;4;3;3;5;5;3;3;5
+011;homme;50 et +;classe supérieure moyenne;150-200;domicile-travail;classique;8;4;3;3;4;4;4;3;3;4;3;3;3;4;3;3;3;4;5
+012;homme;25-29 ans;employé;150-200;domicile-travail;innovant nouveau;7;3;4;3;4;5;4;4;4;4;3;3;3;3;4;4;3;4;5
+013;homme;20-24 ans;employé;125;domicile-travail;sportif;8;2;5;4;5;4;2;4;5;5;1;4;3;3;5;5;3;3;5
+014;homme;18-19 ans;inactif;125;personnels et loisirs;innovant nouveau;10;4;5;4;3;5;5;4;4;4;2;3;3;3;4;4;2;4;5
+015;homme;40-49 ans;classe supérieure moyenne;250-400;personnels et loisirs;innovant nouveau;10;1;4;4;4;5;5;5;5;5;4;4;3;5;5;5;4;4;5
+016;femme;30-39 ans;employé;125;domicile-travail;classique;10;5;4;4;4;5;5;4;3;4;1;3;3;3;3;3;2;3;5
+017;femme;25-29 ans;employé;125;domicile-travail;classique;10;4;4;4;4;5;4;3;2;3;2;3;3;3;3;3;3;4;4
+018;homme;30-39 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;10;2;5;5;5;4;2;4;5;5;2;4;4;3;5;5;4;3;5
+019;homme;50 et +;classe supérieure moyenne;250-400;personnels et loisirs;classique;10;4;4;4;3;5;5;4;4;3;2;1;2;4;4;4;3;4;5
+020;homme;50 et +;classe supérieure moyenne;250-400;domicile-travail;classique;9;3;4;4;2;5;4;4;5;5;3;4;4;5;5;5;3;4;4
+021;homme;50 et +;employé;150-200;domicile-travail;classique;9;4;4;2;4;5;2;3;3;3;3;2;2;3;3;3;3;4;5
+022;homme;40-49 ans;employé;150-200;domicile-travail;classique;7;3;2;2;4;4;4;3;3;3;1;2;3;3;3;3;3;3;4
+023;homme;25-29 ans;employé;150-200;domicile-travail;innovant nouveau;8;5;5;3;4;5;3;3;4;3;3;3;3;3;3;3;2;3;4
+024;homme;18-19 ans;inactif;125;personnels et loisirs;classique;8;2;4;4;3;4;4;4;5;4;2;3;3;3;3;3;2;3;4
+025;femme;30-39 ans;employé;250-400;domicile-travail;sportif;10;2;3;3;3;5;4;2;4;3;1;2;3;3;3;3;2;4;5
+026;homme;50 et +;classe supérieure;250-400;domicile-travail;classique;10;3;5;4;3;5;4;4;3;3;3;3;3;3;3;4;3;4;5
+027;homme;30-39 ans;classe supérieure;150-200;domicile-travail;innovant nouveau;9;4;5;3;1;5;5;4;4;4;3;3;3;3;4;4;2;3;4
+028;homme;25-29 ans;classe moyenne;125;personnels et loisirs;innovant nouveau;5;4;4;4;5;4;2;2;4;4;1;2;2;3;3;3;2;4;4
+029;femme;20-24 ans;inactif;125;personnels et loisirs;classique;9;4;4;5;4;4;4;4;3;3;2;3;3;3;3;3;2;3;4
+030;homme;25-29 ans;ouvrier;150-200;personnels et loisirs;classique;7;1;3;3;5;3;2;3;3;4;2;2;2;2;2;2;4;3;4
+031;femme;25-29 ans;classe supérieure moyenne;150-200;personnels et loisirs;rétro;10;3;5;4;4;5;5;4;5;4;3;3;3;5;5;5;1;4;5
+032;homme;40-49 ans;classe moyenne;125;personnels et loisirs;à la mode;7;1;3;5;1;4;3;1;3;5;1;5;3;3;1;1;3;3;4
+033;homme;40-49 ans;employé;150-200;personnels et loisirs;sportif;8;3;3;3;4;4;4;5;5;4;3;3;3;4;4;4;3;4;5
+034;homme;25-29 ans;employé;250-400;domicile-travail;à la mode;9;3;4;4;3;4;4;4;4;4;2;4;3;4;4;4;3;3;4
+035;homme;30-39 ans;classe supérieure moyenne;125;domicile-travail;innovant nouveau;8;4;3;4;4;4;3;4;4;4;3;4;4;4;3;3;4;4;4
+036;homme;30-39 ans;employé;250-400;personnels et loisirs;à la mode;10;3;4;5;2;5;5;3;4;5;2;5;3;2;4;2;2;2;4
+037;homme;18-19 ans;inactif;125;personnels et loisirs;discret / sobre;6;1;2;3;4;4;2;3;3;4;2;2;2;3;1;1;2;2;2
+038;homme;30-39 ans;ouvrier;250-400;personnels et loisirs;innovant nouveau;8;2;4;4;2;4;3;4;4;5;3;4;3;4;4;3;2;2;4
+039;homme;16-17 ans;inactif;125;personnels et loisirs;classique;8;3;3;4;5;3;2;1;4;3;2;2;1;3;3;4;3;2;4
+040;homme;50 et +;classe supérieure moyenne;150-200;domicile-travail;discret / sobre;8;2;4;4;4;4;3;5;4;4;2;2;2;2;3;3;2;4;5
+041;femme;25-29 ans;classe supérieure;150-200;personnels et loisirs;innovant nouveau;7;3;3;4;3;4;4;3;4;4;3;4;3;4;4;4;4;4;5
+042;homme;40-49 ans;classe supérieure moyenne;250-400;domicile-travail;classique;8;3;4;2;3;3;3;2;4;4;3;4;2;2;3;3;3;4;3
+043;femme;20-24 ans;inactif;125;personnels et loisirs;sportif;9;5;5;4;5;4;3;5;4;4;4;4;4;4;4;4;4;4;5
+044;homme;40-49 ans;employé;250-400;domicile-travail;innovant nouveau;9;2;4;3;3;4;3;2;3;3;2;2;1;2;3;2;3;2;3
+045;homme;50 et +;classe moyenne;250-400;personnels et loisirs;innovant nouveau;8;2;4;4;5;5;4;3;5;5;5;4;5;5;5;5;4;5;5
+046;homme;25-29 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;9;3;4;3;4;2;3;3;2;4;4;2;3;3;4;3;3;2;3
+047;homme;25-29 ans;employé;125;domicile-travail;ressemble à une moto;7;4;5;4;5;4;4;4;5;5;4;4;3;5;4;4;4;3;4
+048;homme;40-49 ans;employé;250-400;domicile-travail;sportif;7;3;4;3;5;4;4;3;5;4;4;4;5;4;3;4;3;4;4
+049;homme;30-39 ans;classe supérieure moyenne;150-200;personnels et loisirs;sportif;9;1;5;5;5;5;4;5;5;5;1;5;2;5;5;5;3;5;5
+050;homme;30-39 ans;classe moyenne;125;personnels et loisirs;discret / sobre;10;5;5;5;5;5;4;5;5;5;4;5;5;5;4;4;5;5;5
+051;femme;30-39 ans;classe moyenne;125;personnels et loisirs;classique;8;4;5;5;5;5;4;5;4;4;3;4;4;3;3;3;4;4;4
+052;homme;25-29 ans;ouvrier;150-200;domicile-travail;discret / sobre;8;4;4;5;5;5;5;4;5;4;4;4;4;4;5;5;4;5;5
+053;homme;40-49 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;9;4;4;4;4;5;3;4;5;5;3;4;5;4;5;4;5;5;5
+054;homme;30-39 ans;classe moyenne;150-200;personnels et loisirs;sportif;8;4;4;4;5;4;3;4;4;5;4;4;4;4;4;4;4;4;4
+055;femme;18-19 ans;inactif;125;personnels et loisirs;à la mode;9;3;5;5;5;5;4;5;5;4;4;5;5;5;4;3;3;4;4
+056;homme;40-49 ans;classe supérieure moyenne;250-400;domicile-travail;innovant nouveau;9;4;5;5;5;5;4;5;5;5;4;5;5;4;5;5;5;5;5
+057;homme;25-29 ans;classe moyenne;125;personnels et loisirs;à la mode;7;1;5;5;5;5;5;4;5;5;5;5;3;4;5;5;3;5;5
+058;homme;30-39 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;8;3;4;4;4;5;4;3;4;4;3;3;3;3;4;3;3;4;4
+059;homme;30-39 ans;inactif;150-200;domicile-travail;sportif;8;3;4;4;5;5;4;4;4;3;4;3;4;4;5;5;4;3;4
+060;femme;18-19 ans;inactif;125;personnels et loisirs;à la mode;9;4;5;5;5;5;5;5;5;4;4;4;4;4;4;4;4;4;5
+061;homme;30-39 ans;classe supérieure;250-400;domicile-travail;classique;8;4;4;5;5;5;5;4;5;5;5;4;4;4;5;5;5;5;5
+062;homme;30-39 ans;classe supérieure;125;personnels et loisirs;sportif;8;4;5;5;5;5;5;5;5;5;4;4;3;3;4;4;3;4;5
+063;homme;30-39 ans;ouvrier;150-200;domicile-travail;classique;9;4;5;5;5;5;5;4;5;5;3;3;3;4;4;4;4;4;4
+064;homme;25-29 ans;inactif;250-400;personnels et loisirs;classique;9;4;5;5;4;5;5;4;4;4;4;4;3;4;4;4;3;4;5
+065;homme;25-29 ans;classe supérieure moyenne;250-400;personnels et loisirs;discret / sobre;10;3;4;4;4;5;5;5;5;5;4;4;4;4;5;5;5;4;5
+066;homme;25-29 ans;classe supérieure moyenne;125;personnels et loisirs;discret / sobre;8;3;5;5;4;5;5;5;5;5;5;5;5;4;5;5;4;4;4
+067;homme;16-17 ans;inactif;125;personnels et loisirs;sportif;8;3;3;5;2;5;3;4;5;5;2;1;5;1;5;4;4;5;4
+068;homme;18-19 ans;inactif;125;personnels et loisirs;innovant nouveau;10;2;5;4;3;5;4;4;5;4;4;5;4;4;4;4;4;5;5
+069;homme;25-29 ans;classe moyenne;125;domicile-travail;sportif;10;2;5;4;3;5;3;4;5;5;5;4;4;4;5;5;4;4;5
+070;femme;16-17 ans;inactif;125;personnels et loisirs;classique;10;2;5;5;2;5;3;4;5;3;5;5;2;4;2;1;3;4;4
+071;femme;25-29 ans;inactif;150-200;domicile-travail;innovant nouveau;10;2;5;3;4;5;4;4;5;3;5;4;4;4;3;3;4;4;5
+072;homme;25-29 ans;classe supérieure;150-200;domicile-travail;à la mode;9;3;4;5;4;5;5;4;5;5;5;4;5;4;5;5;4;5;5
+073;homme;50 et +;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;10;3;4;4;4;5;4;4;5;5;5;4;4;3;4;4;4;5;5
+074;homme;30-39 ans;classe moyenne;250-400;personnels et loisirs;à la mode;10;5;5;4;3;5;4;4;5;5;1;5;5;2;5;5;3;4;5
+075;homme;40-49 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;10;3;4;4;3;5;4;4;5;5;4;4;4;5;5;5;4;5;5
+076;homme;30-39 ans;classe moyenne;250-400;personnels et loisirs;à la mode;10;5;4;4;3;5;4;4;5;5;2;5;5;3;5;4;3;4;5
+077;femme;25-29 ans;ouvrier;125;personnels et loisirs;à la mode;9;2;5;4;4;4;4;4;4;4;3;4;4;4;5;4;4;4;4
+078;homme;30-39 ans;classe moyenne;250-400;domicile-travail;à la mode;8;2;4;3;3;4;4;3;4;4;3;4;4;3;3;4;2;3;4
+079;homme;25-29 ans;employé;150-200;domicile-travail;classique;9;3;4;4;3;3;3;4;5;5;4;5;4;4;4;5;3;3;4
+080;homme;16-17 ans;ouvrier;250-400;personnels et loisirs;ressemble à une moto;8;1;4;4;4;4;4;4;4;4;3;4;3;3;3;4;2;3;4
+081;femme;18-19 ans;inactif;125;personnels et loisirs;classique;8;3;4;5;3;4;4;5;4;2;2;3;2;3;2;3;2;3;3
+082;homme;18-19 ans;inactif;125;personnels et loisirs;à la mode;9;4;4;5;5;4;3;4;4;4;3;5;3;4;4;4;4;4;5
+083;homme;40-49 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;6;4;4;5;5;5;4;4;4;3;4;5;4;4;4;4;4;3;4
+084;homme;30-39 ans;classe moyenne;125;personnels et loisirs;discret / sobre;7;5;5;5;4;5;4;5;5;5;4;5;4;5;5;5;2;3;4
+085;homme;40-49 ans;classe moyenne;250-400;personnels et loisirs;innovant nouveau;9;4;5;5;4;4;4;3;5;5;4;5;5;5;4;4;3;4;5
+086;homme;40-49 ans;classe moyenne;150-200;domicile-travail;rétro;8;1;4;5;4;4;3;4;3;4;3;3;4;4;5;4;5;5;5
+087;homme;18-19 ans;inactif;125;domicile-travail;à la mode;10;4;5;5;4;4;5;5;5;4;4;4;4;5;4;4;4;5;4
+088;femme;18-19 ans;inactif;125;domicile-travail;innovant nouveau;9;4;4;4;5;5;4;5;4;4;4;4;5;4;4;4;5;4;4
+089;homme;16-17 ans;inactif;125;domicile-travail;innovant nouveau;8;4;5;4;4;5;4;4;4;5;4;4;4;5;4;4;4;4;4
+090;homme;50 et +;employé;150-200;domicile-travail;innovant nouveau;7;5;4;4;5;4;4;4;4;5;4;4;4;4;4;5;4;5;4
+091;homme;25-29 ans;employé;150-200;domicile-travail;à la mode;6;4;4;4;5;4;4;4;4;4;4;4;4;4;4;4;5;4;4
+092;femme;25-29 ans;classe supérieure;150-200;domicile-travail;à la mode;10;5;4;5;5;5;4;4;5;5;4;5;4;5;4;4;5;4;5
+093;homme;20-24 ans;inactif;150-200;personnels et loisirs;innovant nouveau;7;4;4;4;4;4;4;5;4;4;4;4;4;4;4;4;4;4;4
+094;homme;30-39 ans;classe moyenne;250-400;professionnel;sportif;8;1;5;4;4;4;4;4;4;4;4;4;5;4;4;4;5;4;4
+095;homme;50 et +;classe supérieure;250-400;personnels et loisirs;ressemble à une moto;8;5;4;5;4;5;4;4;5;4;4;4;4;5;4;4;5;4;4
+096;homme;30-39 ans;classe supérieure;250-400;professionnel;innovant nouveau;8;4;4;4;4;4;2;4;4;4;4;4;4;4;4;4;4;4;5
+097;homme;25-29 ans;classe supérieure moyenne;250-400;domicile-travail;à la mode;8;3;4;4;4;4;4;3;4;4;4;4;3;4;4;4;3;2;4
+098;homme;30-39 ans;classe moyenne;125;domicile-travail;sportif;8;5;5;5;5;5;5;5;5;4;4;4;5;4;5;5;4;4;5
+099;homme;30-39 ans;classe supérieure;150-200;domicile-travail;sportif;10;3;5;5;4;5;5;5;4;5;5;5;5;5;5;5;4;4;5
+100;homme;40-49 ans;employé;250-400;domicile-travail;classique;9;4;5;4;4;5;5;4;5;4;4;4;4;4;4;4;2;2;5
+101;femme;25-29 ans;classe moyenne;150-200;domicile-travail;sportif;8;4;5;5;5;4;4;4;2;4;3;4;4;4;2;2;4;4;5
+102;homme;20-24 ans;inactif;150-200;personnels et loisirs;rétro;8;4;5;5;4;5;4;5;5;5;5;5;4;4;5;5;3;4;5
+103;homme;40-49 ans;employé;150-200;personnels et loisirs;à la mode;8;1;5;4;3;3;3;4;4;4;1;3;3;3;5;3;4;4;4
+104;homme;40-49 ans;classe moyenne;125;domicile-travail;innovant nouveau;8;4;5;5;5;5;5;5;4;5;5;5;5;4;4;4;5;5;5
+105;homme;50 et +;ouvrier;250-400;domicile-travail;à la mode;10;2;5;5;3;5;5;5;5;5;2;5;5;5;3;3;2;4;5
+106;homme;30-39 ans;classe moyenne;250-400;personnels et loisirs;ressemble à une moto;9;4;5;5;4;5;4;5;5;5;5;5;5;5;5;5;3;4;5
+107;homme;20-24 ans;inactif;125;domicile-travail;à la mode;7;2;5;4;5;4;4;4;5;4;2;3;2;4;5;4;4;4;4
+108;homme;50 et +;classe supérieure moyenne;125;personnels et loisirs;rétro;8;4;4;4;5;5;2;4;5;3;3;2;2;3;3;3;3;4;5
+109;homme;20-24 ans;inactif;250-400;personnels et loisirs;ressemble à une moto;8;3;4;4;3;3;3;5;5;5;3;3;4;3;4;3;2;4;4
+110;homme;25-29 ans;classe moyenne;150-200;domicile-travail;sportif;9;3;4;4;4;4;3;5;5;4;4;4;3;4;3;3;2;4;5
+111;homme;25-29 ans;classe moyenne;250-400;personnels et loisirs;ressemble à une moto;9;3;4;5;5;5;4;4;5;5;4;5;4;4;4;4;1;4;5
+112;homme;25-29 ans;inactif;150-200;domicile-travail;discret / sobre;8;4;4;5;5;4;4;5;5;5;3;4;3;4;5;4;1;4;5
+113;femme;40-49 ans;inactif;150-200;personnels et loisirs;rétro;8;4;4;5;3;5;1;4;5;5;2;5;3;5;3;3;1;3;5
+114;homme;18-19 ans;inactif;250-400;personnels et loisirs;ressemble à une moto;8;3;4;5;4;5;4;4;5;5;4;4;5;4;4;4;1;4;5
+115;homme;18-19 ans;inactif;250-400;personnels et loisirs;ressemble à une moto;8;4;5;5;4;5;4;5;5;5;5;4;2;4;4;4;2;5;5
+116;homme;30-39 ans;employé;250-400;domicile-travail;innovant nouveau;9;1;5;5;2;4;3;3;3;3;1;4;3;4;4;4;5;3;5
+117;femme;40-49 ans;employé;125;domicile-travail;discret / sobre;10;5;5;5;5;5;3;5;5;5;1;4;5;3;5;5;5;5;5
+118;homme;30-39 ans;classe moyenne;250-400;domicile-travail;ressemble à une moto;6;1;5;5;3;5;5;4;5;5;1;2;5;3;5;3;1;5;5
+119;homme;50 et +;classe supérieure;150-200;personnels et loisirs;rétro;9;1;1;4;1;5;3;4;4;3;2;4;4;3;4;2;1;1;3
+120;homme;40-49 ans;classe moyenne;250-400;professionnel;ressemble à une moto;5;4;4;5;4;3;1;2;4;5;1;1;1;2;5;4;5;5;5
+121;homme;30-39 ans;classe moyenne;150-200;domicile-travail;discret / sobre;8;1;5;4;5;5;5;5;3;5;1;1;2;2;3;3;3;4;4
+122;homme;30-39 ans;classe supérieure moyenne;125;professionnel;classique;4;4;4;4;4;4;3;4;4;4;3;3;3;4;4;3;1;2;3
+123;homme;25-29 ans;inactif;250-400;domicile-travail;à la mode;7;5;5;5;3;4;3;2;3;5;1;3;4;4;5;4;4;4;5
+124;femme;25-29 ans;classe moyenne;125;domicile-travail;sportif;8;5;3;5;5;4;4;5;5;5;1;3;2;5;5;3;1;3;5
+125;homme;20-24 ans;ouvrier;125;domicile-travail;sportif;10;1;5;3;2;3;2;3;3;4;1;2;1;1;5;4;2;3;3
+126;homme;20-24 ans;inactif;150-200;domicile-travail;discret / sobre;7;1;5;5;1;3;1;5;5;1;1;4;1;5;5;5;5;5;5
+127;homme;40-49 ans;ouvrier;150-200;domicile-travail;ressemble à une moto;10;5;5;5;5;5;5;5;5;5;4;5;5;5;5;5;5;5;5
+128;homme;25-29 ans;inactif;125;domicile-travail;sportif;8;3;4;5;5;5;4;4;5;5;3;4;5;4;4;4;4;4;5
+129;homme;30-39 ans;classe supérieure;150-200;domicile-travail;sportif;8;3;4;5;5;5;4;5;5;5;4;4;4;4;4;4;4;5;5
+130;femme;30-39 ans;classe supérieure;250-400;domicile-travail;innovant nouveau;9;4;5;5;4;5;5;4;5;5;3;4;4;4;4;4;4;5;5
+131;homme;25-29 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;9;4;5;5;5;5;4;5;5;5;4;5;5;5;5;5;4;4;5
+132;homme;40-49 ans;classe supérieure moyenne;125;domicile-travail;classique;8;2;5;5;4;5;5;5;5;5;3;4;4;4;5;5;5;5;5
+133;homme;40-49 ans;classe moyenne;125;domicile-travail;innovant nouveau;8;3;4;4;4;5;4;5;5;5;3;4;4;4;4;4;4;4;5
+134;homme;40-49 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;8;2;4;4;5;5;5;5;5;5;2;4;4;4;4;4;4;5;5
+135;homme;50 et +;classe supérieure;250-400;domicile-travail;ressemble à une moto;10;3;4;5;3;5;4;5;5;5;4;4;4;5;5;5;5;5;5
+136;femme;20-24 ans;ouvrier;125;domicile-travail;innovant nouveau;9;4;4;5;5;5;5;5;4;5;4;4;4;4;4;4;4;5;5
+137;homme;50 et +;classe supérieure moyenne;250-400;personnels et loisirs;discret / sobre;8;3;4;5;5;5;4;4;5;4;5;4;5;5;4;4;4;4;4
+138;femme;25-29 ans;inactif;125;domicile-travail;innovant nouveau;8;4;5;5;5;5;4;4;2;3;4;4;4;4;4;3;5;4;4
+139;homme;25-29 ans;classe supérieure moyenne;125;domicile-travail;classique;9;4;5;5;5;4;4;5;5;4;4;4;4;4;5;4;4;5;4
+140;homme;20-24 ans;inactif;125;domicile-travail;sportif;8;4;5;5;5;4;4;4;5;5;4;5;4;4;4;4;4;5;4
+141;homme;40-49 ans;classe moyenne;250-400;domicile-travail;à la mode;8;3;5;5;5;5;4;4;5;5;4;4;2;4;5;5;5;5;5
+142;homme;25-29 ans;inactif;150-200;domicile-travail;innovant nouveau;9;4;5;5;5;4;4;4;5;5;4;4;4;5;4;4;4;4;5
+143;homme;50 et +;classe supérieure moyenne;250-400;domicile-travail;sportif;9;5;5;4;5;5;4;4;5;4;4;4;5;5;5;2;4;4;5
+144;femme;30-39 ans;classe moyenne;150-200;personnels et loisirs;innovant nouveau;9;4;5;5;5;4;4;4;3;4;3;4;4;4;3;3;4;4;5
+145;homme;30-39 ans;ouvrier;250-400;domicile-travail;innovant nouveau;8;5;5;5;5;4;4;4;5;5;3;5;4;5;3;5;4;5;5
+146;homme;25-29 ans;employé;250-400;personnels et loisirs;sportif;8;5;4;5;5;5;4;4;5;5;3;5;5;4;4;4;4;3;5
+147;homme;40-49 ans;classe supérieure moyenne;250-400;personnels et loisirs;classique;9;5;4;4;5;5;4;5;5;4;3;3;3;5;5;5;5;5;5
+148;homme;25-29 ans;classe supérieure;125;personnels et loisirs;discret / sobre;8;4;5;4;5;5;3;5;5;4;3;4;3;5;4;4;4;5;5
+149;femme;30-39 ans;employé;125;personnels et loisirs;discret / sobre;9;4;4;5;5;4;4;5;4;3;3;3;4;5;4;4;3;5;5
+150;homme;30-39 ans;classe supérieure;150-200;personnels et loisirs;discret / sobre;7;5;5;5;5;4;2;5;5;4;3;3;3;5;4;5;4;5;5
+151;femme;30-39 ans;classe supérieure;250-400;personnels et loisirs;discret / sobre;10;4;5;4;5;5;4;5;4;4;3;3;4;4;4;4;5;5;5
+152;homme;16-17 ans;inactif;125;personnels et loisirs;ressemble à une moto;5;1;3;4;4;3;1;3;5;5;1;3;1;4;4;5;1;2;4
+153;homme;40-49 ans;classe supérieure moyenne;125;domicile-travail;sportif;9;5;5;4;5;5;4;5;5;4;3;2;4;5;5;4;4;5;5
+154;homme;50 et +;classe moyenne;125;domicile-travail;discret / sobre;9;5;4;5;5;4;4;5;4;4;4;3;3;4;4;4;4;4;5
+155;homme;40-49 ans;classe supérieure;150-200;domicile-travail;rétro;9;3;4;5;5;4;4;5;4;5;3;4;4;4;5;4;4;3;5
+156;homme;50 et +;classe supérieure;250-400;personnels et loisirs;discret / sobre;10;4;4;5;5;5;4;5;5;5;2;3;5;5;5;5;5;5;5
+157;homme;40-49 ans;employé;150-200;domicile-travail;à la mode;10;5;5;5;5;5;5;4;5;5;3;5;4;5;5;5;3;5;5
+158;homme;40-49 ans;classe moyenne;125;domicile-travail;sportif;8;5;3;5;3;4;4;5;4;5;2;5;5;4;5;5;5;5;5
+159;femme;20-24 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;8;2;3;5;2;5;3;5;5;5;2;5;2;5;5;3;3;4;5
+160;homme;40-49 ans;classe moyenne;125;personnels et loisirs;classique;6;1;1;4;1;1;1;1;2;4;1;1;3;2;2;3;5;2;5
+161;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;classique;10;1;5;5;2;5;5;4;5;5;1;5;3;2;5;5;5;5;5
+162;homme;30-39 ans;classe moyenne;250-400;personnels et loisirs;discret / sobre;10;5;4;5;5;5;5;5;5;3;5;5;5;3;5;5;4;4;5
+163;homme;30-39 ans;classe moyenne;250-400;professionnel;innovant nouveau;9;4;4;5;5;5;5;5;5;4;3;4;5;5;5;5;4;4;5
+164;homme;40-49 ans;classe moyenne;150-200;personnels et loisirs;innovant nouveau;8;5;5;5;5;5;5;5;5;5;2;3;5;5;3;5;4;5;5
+165;homme;25-29 ans;classe moyenne;125;personnels et loisirs;innovant nouveau;8;3;5;5;5;5;5;5;5;4;2;3;4;3;5;4;4;4;5
+166;femme;30-39 ans;employé;150-200;personnels et loisirs;discret / sobre;9;5;5;5;4;5;5;4;5;5;2;4;4;4;3;4;5;5;4
+167;homme;50 et +;classe supérieure;250-400;domicile-travail;classique;8;4;4;3;4;4;2;3;4;4;2;2;5;4;4;4;5;4;4
+168;homme;25-29 ans;ouvrier;150-200;personnels et loisirs;innovant nouveau;8;2;4;4;4;5;4;4;4;4;5;4;4;5;4;4;5;5;5
+169;femme;18-19 ans;inactif;125;domicile-travail;discret / sobre;10;2;2;1;5;5;1;3;3;1;1;1;3;5;5;5;5;5;5
+170;homme;40-49 ans;classe moyenne;125;domicile-travail;innovant nouveau;8;2;5;5;2;5;5;4;5;5;2;4;4;4;5;3;5;4;5
+171;femme;30-39 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;10;5;5;5;5;5;5;3;5;3;5;3;5;5;5;5;5;5;5
+172;homme;30-39 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;10;4;4;5;5;3;1;3;4;4;1;3;4;4;4;4;5;5;5
+173;homme;25-29 ans;classe supérieure;125;domicile-travail;discret / sobre;7;1;4;1;5;3;1;5;4;4;1;2;1;5;5;1;3;1;4
+174;homme;25-29 ans;inactif;150-200;domicile-travail;innovant nouveau;5;4;4;2;5;3;2;3;3;3;1;1;3;3;2;1;4;2;2
+175;homme;50 et +;classe supérieure;250-400;domicile-travail;discret / sobre;8;4;4;4;5;5;4;4;4;5;2;4;5;3;4;3;5;4;5
+176;homme;25-29 ans;classe supérieure;250-400;domicile-travail;sportif;9;5;5;5;5;5;4;5;5;5;2;3;5;5;5;3;5;5;5
+177;homme;30-39 ans;classe supérieure moyenne;250-400;domicile-travail;classique;9;1;3;4;4;5;3;3;4;5;5;3;3;3;2;2;1;1;4
+178;homme;40-49 ans;classe moyenne;250-400;domicile-travail;sportif;8;4;4;4;3;5;4;5;5;5;2;4;2;2;4;4;2;3;5
+179;femme;20-24 ans;classe supérieure moyenne;125;domicile-travail;rétro;8;2;4;4;5;3;1;4;4;5;1;1;1;2;3;2;5;2;4
+180;homme;30-39 ans;classe supérieure moyenne;250-400;personnels et loisirs;sportif;9;3;5;3;2;3;5;2;3;5;4;3;5;4;5;3;5;3;5
+181;homme;40-49 ans;classe supérieure;250-400;domicile-travail;innovant nouveau;9;1;4;5;3;5;2;2;4;5;2;5;2;4;2;2;4;2;4
+182;homme;20-24 ans;inactif;125;domicile-travail;classique;8;3;2;4;4;4;4;5;4;4;2;4;3;2;4;3;2;4;4
+183;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;9;1;3;4;3;4;3;3;5;5;3;3;4;4;4;4;4;4;5
+184;homme;30-39 ans;classe moyenne;125;domicile-travail;classique;8;4;2;1;3;3;3;5;3;3;1;1;3;5;4;3;5;2;5
+185;homme;16-17 ans;inactif;125;domicile-travail;innovant nouveau;8;1;5;5;4;4;4;5;5;5;5;5;1;5;5;5;1;5;5
+186;femme;30-39 ans;classe supérieure moyenne;150-200;domicile-travail;sportif;9;1;4;5;4;5;5;5;4;4;2;2;4;4;4;4;3;4;5
+187;homme;40-49 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;10;5;5;5;5;5;5;5;5;5;1;5;5;5;5;5;3;3;4
+188;femme;30-39 ans;classe supérieure moyenne;150-200;professionnel;discret / sobre;9;1;5;5;5;5;4;5;5;5;3;4;4;5;5;3;5;5;5
+189;homme;25-29 ans;employé;250-400;domicile-travail;discret / sobre;8;3;4;3;5;5;2;4;5;5;4;3;4;5;5;5;5;5;5
+190;homme;30-39 ans;classe moyenne;125;domicile-travail;sportif;9;1;4;4;5;5;5;5;5;5;3;3;3;4;4;4;3;3;4
+191;homme;30-39 ans;classe supérieure;150-200;domicile-travail;innovant nouveau;8;2;4;5;5;4;4;4;5;4;4;5;4;4;4;3;3;5;5
+192;homme;30-39 ans;classe supérieure moyenne;250-400;domicile-travail;ressemble à une moto;9;4;5;5;5;5;5;5;5;5;3;5;5;5;5;5;4;5;5
+193;femme;20-24 ans;ouvrier;125;personnels et loisirs;innovant nouveau;9;4;3;4;4;5;5;5;5;5;4;4;5;5;5;5;3;5;5
+194;homme;30-39 ans;employé;250-400;personnels et loisirs;sportif;10;1;5;5;1;5;2;2;5;5;5;5;5;1;5;5;3;3;4
+195;homme;30-39 ans;classe moyenne;125;personnels et loisirs;discret / sobre;7;5;5;4;5;4;3;4;4;4;1;1;1;4;5;4;1;1;3
+196;homme;30-39 ans;employé;250-400;personnels et loisirs;ressemble à une moto;10;5;5;5;3;5;5;5;5;5;1;1;5;3;5;5;5;5;5
+197;homme;30-39 ans;employé;125;personnels et loisirs;discret / sobre;8;5;4;4;5;5;3;5;5;5;1;3;4;5;5;5;5;5;5
+198;homme;30-39 ans;classe supérieure;150-200;personnels et loisirs;discret / sobre;7;2;3;3;5;5;3;3;3;4;2;2;3;3;5;3;3;3;3
+199;femme;40-49 ans;inactif;125;personnels et loisirs;innovant nouveau;8;5;3;5;4;5;4;5;5;5;5;2;5;4;5;5;5;5;5
+200;homme;30-39 ans;employé;250-400;personnels et loisirs;discret / sobre;9;1;5;5;1;5;5;4;5;4;1;1;2;5;4;3;2;2;3
+201;homme;30-39 ans;employé;250-400;personnels et loisirs;innovant nouveau;8;2;4;5;2;4;3;4;2;5;1;2;2;3;4;3;4;3;4
+202;homme;30-39 ans;classe supérieure;125;domicile-travail;discret / sobre;8;1;4;4;5;5;2;5;5;5;2;4;5;5;5;5;5;5;5
+203;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;discret / sobre;8;4;4;4;4;4;3;4;4;4;4;3;3;3;4;4;3;3;5
+204;homme;30-39 ans;classe moyenne;250-400;domicile-travail;classique;9;3;5;4;4;5;5;3;4;4;4;2;4;4;4;4;5;4;5
+205;homme;18-19 ans;inactif;125;personnels et loisirs;classique;9;2;3;4;5;5;4;4;5;3;2;3;3;4;5;5;3;4;4
+206;femme;20-24 ans;inactif;125;domicile-travail;sportif;8;4;5;5;5;4;3;4;4;3;3;3;2;2;4;3;3;4;4
+207;homme;25-29 ans;inactif;150-200;domicile-travail;sportif;8;4;4;4;4;4;4;4;5;3;3;3;4;4;4;3;3;4;4
+208;homme;20-24 ans;classe supérieure;125;personnels et loisirs;discret / sobre;8;5;5;5;5;4;4;5;4;5;3;4;5;5;5;4;5;5;5
+209;homme;25-29 ans;employé;250-400;personnels et loisirs;classique;7;3;4;4;4;4;3;5;5;4;3;3;3;4;4;4;4;5;5
+210;homme;50 et +;classe supérieure;125;personnels et loisirs;innovant nouveau;8;5;4;4;5;5;5;4;5;4;1;3;1;4;4;4;1;2;3
+211;homme;20-24 ans;inactif;150-200;domicile-travail;sportif;8;2;4;4;3;5;4;4;5;4;3;3;4;4;4;4;3;5;5
+212;homme;50 et +;classe supérieure;150-200;personnels et loisirs;classique;9;3;5;5;5;4;4;4;5;5;3;4;4;4;4;4;4;4;4
+213;homme;30-39 ans;classe moyenne;250-400;personnels et loisirs;sportif;9;4;5;5;5;5;5;5;3;5;3;4;4;4;3;3;2;5;5
+214;femme;40-49 ans;inactif;250-400;personnels et loisirs;à la mode;9;4;5;5;3;5;5;5;2;4;2;4;4;4;2;2;3;4;5
+215;femme;18-19 ans;employé;125;personnels et loisirs;à la mode;9;5;3;5;5;5;4;5;5;3;3;4;4;4;1;1;4;4;3
+216;homme;25-29 ans;employé;125;personnels et loisirs;innovant nouveau;10;5;5;5;5;5;4;5;3;5;2;4;4;4;2;2;3;5;5
+217;homme;25-29 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;7;4;4;5;5;4;4;5;4;4;2;4;4;4;2;3;2;5;5
+218;homme;50 et +;classe moyenne;125;domicile-travail;à la mode;8;3;4;5;5;5;4;5;2;5;2;3;3;3;2;2;3;5;5
+219;homme;30-39 ans;classe moyenne;250-400;domicile-travail;sportif;10;4;5;5;5;5;4;5;2;5;2;3;3;4;2;2;3;5;5
+220;homme;18-19 ans;inactif;125;personnels et loisirs;sportif;10;5;5;5;5;5;4;4;4;4;3;4;4;4;3;3;3;4;4
+221;homme;50 et +;inactif;250-400;personnels et loisirs;sportif;8;5;5;5;3;5;4;5;3;5;3;4;4;4;5;5;2;4;5
+222;homme;30-39 ans;employé;150-200;domicile-travail;discret / sobre;6;1;1;1;5;1;1;1;1;5;1;1;1;1;5;1;5;5;5
+223;homme;30-39 ans;employé;125;domicile-travail;innovant nouveau;10;1;2;4;5;4;4;4;3;5;5;3;2;2;5;3;1;4;5
+224;homme;30-39 ans;classe moyenne;150-200;professionnel;classique;8;2;5;4;2;5;5;3;4;4;2;3;1;3;4;4;4;5;5
+225;homme;30-39 ans;employé;250-400;domicile-travail;innovant nouveau;8;1;1;3;1;5;4;1;5;5;1;3;5;5;5;5;5;5;5
+226;homme;40-49 ans;employé;150-200;personnels et loisirs;innovant nouveau;7;1;5;5;5;5;5;4;4;5;5;5;4;5;5;5;5;5;5
+227;femme;25-29 ans;inactif;250-400;personnels et loisirs;innovant nouveau;8;3;3;4;3;4;4;4;2;3;5;5;5;5;2;2;4;4;4
+228;homme;25-29 ans;inactif;125;domicile-travail;à la mode;8;2;3;5;3;4;4;3;4;4;4;4;4;4;5;5;4;4;5
+229;homme;30-39 ans;employé;250-400;professionnel;sportif;10;3;5;5;5;5;5;5;5;4;5;5;5;5;5;5;1;5;5
+230;homme;50 et +;ouvrier;250-400;personnels et loisirs;à la mode;8;3;3;4;5;5;3;4;4;5;3;4;2;2;4;4;1;4;5
+231;femme;25-29 ans;inactif;125;personnels et loisirs;à la mode;8;5;3;5;5;5;5;2;2;3;1;5;5;5;2;2;5;4;4
+232;femme;40-49 ans;classe supérieure;125;personnels et loisirs;sportif;9;4;4;4;4;4;4;4;3;3;3;4;4;2;2;3;4;4;4
+233;homme;20-24 ans;ouvrier;125;domicile-travail;classique;9;3;4;5;5;5;5;3;3;5;2;4;4;5;5;3;3;5;5
+234;homme;40-49 ans;employé;250-400;domicile-travail;classique;9;4;5;5;3;4;4;4;4;4;4;4;4;4;2;3;2;3;5
+235;homme;40-49 ans;employé;250-400;personnels et loisirs;innovant nouveau;10;5;5;5;4;5;5;3;5;5;5;2;2;4;5;5;5;5;5
+236;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;sportif;8;2;2;5;5;4;5;5;5;3;5;4;5;5;4;4;5;5;5
+237;homme;30-39 ans;employé;150-200;domicile-travail;sportif;8;4;4;4;4;4;4;4;5;4;2;3;4;4;4;4;4;4;5
+238;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;9;2;2;4;3;4;5;5;5;4;2;2;2;4;5;2;4;5;5
+239;homme;25-29 ans;ouvrier;125;personnels et loisirs;classique;8;4;3;4;3;4;3;4;4;3;2;3;4;4;3;3;4;3;4
+240;homme;30-39 ans;employé;250-400;domicile-travail;classique;7;4;4;5;5;5;3;4;5;5;3;4;4;3;5;5;3;2;4
+241;homme;40-49 ans;classe moyenne;150-200;domicile-travail;discret / sobre;9;3;4;4;3;5;3;4;4;3;2;3;4;2;4;4;3;5;5
+242;homme;30-39 ans;classe moyenne;250-400;domicile-travail;classique;10;3;4;5;4;4;3;5;4;3;2;3;4;3;5;3;4;5;4
+243;homme;30-39 ans;classe supérieure moyenne;125;domicile-travail;innovant nouveau;10;4;4;3;4;5;3;4;3;4;1;3;3;2;2;2;2;4;3
+244;homme;30-39 ans;employé;150-200;domicile-travail;discret / sobre;8;3;4;4;3;4;3;5;5;3;2;5;2;2;5;3;3;4;4
+245;homme;20-24 ans;employé;150-200;domicile-travail;innovant nouveau;6;1;5;1;1;3;3;2;4;5;1;1;2;3;4;4;2;4;3
+246;homme;20-24 ans;inactif;250-400;personnels et loisirs;sportif;10;1;3;5;1;5;5;5;5;5;1;3;2;2;5;5;1;5;5
+247;homme;30-39 ans;classe moyenne;125;personnels et loisirs;sportif;8;5;3;5;5;5;5;5;4;4;1;5;1;4;4;4;1;4;5
+248;homme;40-49 ans;employé;250-400;personnels et loisirs;innovant nouveau;8;1;4;5;1;3;5;3;3;4;2;5;2;4;4;5;5;5;5
+249;homme;40-49 ans;classe moyenne;150-200;professionnel;innovant nouveau;8;5;5;5;2;3;3;4;5;5;1;4;1;3;5;5;1;5;5
+250;homme;30-39 ans;classe moyenne;150-200;personnels et loisirs;innovant nouveau;10;5;4;4;4;5;5;5;5;5;3;5;5;5;5;5;1;5;5
+251;homme;20-24 ans;ouvrier;125;domicile-travail;innovant nouveau;9;1;1;5;5;5;5;4;3;5;1;1;1;5;5;5;2;5;5
+252;homme;40-49 ans;classe moyenne;250-400;professionnel;innovant nouveau;8;5;5;5;5;5;5;5;5;5;2;5;4;5;5;5;2;5;5
+253;homme;30-39 ans;employé;125;domicile-travail;innovant nouveau;9;5;5;4;3;4;2;5;4;5;1;1;4;5;5;4;3;4;5
+254;homme;30-39 ans;employé;125;domicile-travail;classique;5;2;3;5;3;1;1;3;4;5;4;3;4;5;5;1;5;5;5
+255;homme;50 et +;classe supérieure moyenne;125;personnels et loisirs;discret / sobre;8;3;3;4;3;3;3;4;2;4;3;2;3;4;4;4;4;4;4
+256;homme;30-39 ans;employé;125;domicile-travail;innovant nouveau;8;1;5;5;5;4;5;5;3;3;3;4;5;2;5;2;5;5;3
+257;homme;40-49 ans;classe supérieure moyenne;125;personnels et loisirs;à la mode;8;4;5;4;5;5;4;5;4;5;5;3;4;4;3;4;4;4;4
+258;femme;30-39 ans;classe supérieure moyenne;250-400;personnels et loisirs;sportif;8;4;4;4;4;4;3;4;4;4;4;4;3;4;4;4;3;4;4
+259;homme;20-24 ans;employé;150-200;personnels et loisirs;à la mode;8;3;4;5;4;4;3;2;4;3;3;2;3;4;2;3;3;4;3
+260;femme;25-29 ans;classe moyenne;125;personnels et loisirs;à la mode;8;4;5;5;5;4;3;4;4;4;4;4;3;3;3;3;3;4;4
+261;homme;40-49 ans;classe supérieure moyenne;250-400;personnels et loisirs;innovant nouveau;9;2;3;4;2;3;1;2;2;3;3;4;3;2;4;1;1;1;4
+262;homme;20-24 ans;inactif;125;domicile-travail;innovant nouveau;10;2;3;5;1;3;2;3;4;5;2;4;4;2;5;5;2;3;4
+263;homme;25-29 ans;ouvrier;125;domicile-travail;sportif;8;5;5;5;5;5;2;3;2;4;2;1;1;2;5;1;2;2;4
+264;homme;20-24 ans;inactif;125;domicile-travail;classique;8;2;5;5;5;4;2;4;3;3;1;1;3;2;5;2;2;3;4
+265;homme;40-49 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;8;4;5;5;4;4;4;3;5;5;4;4;4;5;2;4;5;4;5
+266;homme;30-39 ans;employé;150-200;personnels et loisirs;innovant nouveau;8;2;4;4;3;4;2;4;4;5;3;2;3;4;5;5;3;3;4
+267;femme;20-24 ans;employé;150-200;domicile-travail;à la mode;9;3;4;5;4;3;1;4;4;4;2;4;5;4;4;4;2;3;4
+268;homme;40-49 ans;classe moyenne;125;domicile-travail;à la mode;7;4;4;3;2;4;3;4;5;3;5;4;3;2;4;4;2;4;4
+269;femme;40-49 ans;classe supérieure;250-400;domicile-travail;innovant nouveau;9;3;4;5;3;2;2;3;4;4;3;4;3;3;4;4;2;4;4
+270;homme;30-39 ans;classe moyenne;125;domicile-travail;discret / sobre;7;3;3;3;5;4;4;3;4;4;1;3;2;4;5;3;3;1;5
+271;homme;30-39 ans;classe supérieure;125;domicile-travail;discret / sobre;7;2;2;3;5;4;4;4;5;3;2;1;1;4;5;4;3;4;5
+272;homme;25-29 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;7;4;4;5;5;5;1;5;3;5;3;3;4;4;4;4;5;5;5
+273;homme;50 et +;classe supérieure;125;domicile-travail;innovant nouveau;8;4;5;5;5;5;1;4;4;4;3;4;4;3;5;5;4;5;5
+274;homme;30-39 ans;classe moyenne;250-400;domicile-travail;innovant nouveau;7;3;5;5;3;5;5;5;5;5;1;5;3;5;5;5;1;5;5
+275;femme;20-24 ans;employé;125;domicile-travail;innovant nouveau;8;3;4;5;5;5;3;5;4;4;5;5;4;4;4;4;5;5;5
+276;homme;40-49 ans;classe supérieure moyenne;125;domicile-travail;sportif;10;4;4;4;5;4;2;5;5;4;3;4;2;2;3;3;1;4;5
+277;homme;40-49 ans;classe moyenne;150-200;personnels et loisirs;classique;6;3;5;5;4;5;3;4;5;5;3;4;4;5;5;5;5;5;5
+278;homme;50 et +;inactif;150-200;personnels et loisirs;innovant nouveau;8;5;4;4;5;4;4;5;5;4;4;4;5;4;5;4;5;4;5
+279;homme;50 et +;classe supérieure;125;personnels et loisirs;classique;8;5;5;5;5;5;5;4;5;4;4;5;5;5;5;5;5;4;4
+280;homme;30-39 ans;ouvrier;125;domicile-travail;classique;10;5;5;3;5;5;4;4;5;3;3;3;4;5;5;5;5;3;4
+281;homme;20-24 ans;ouvrier;250-400;personnels et loisirs;ressemble à une moto;8;4;4;5;4;4;3;4;4;4;5;4;4;5;4;5;4;3;4
+282;homme;50 et +;employé;150-200;domicile-travail;ressemble à une moto;8;4;5;4;4;5;3;4;4;5;3;5;4;4;5;5;5;5;4
+283;homme;40-49 ans;classe supérieure moyenne;150-200;domicile-travail;innovant nouveau;7;4;2;2;4;5;5;4;4;2;1;4;4;1;3;4;5;4;5
+284;femme;25-29 ans;employé;125;personnels et loisirs;classique;8;4;4;5;4;5;5;3;5;5;2;4;5;5;5;5;3;5;5
+285;homme;50 et +;inactif;150-200;personnels et loisirs;ressemble à une moto;8;2;5;5;2;4;5;3;4;5;3;4;4;2;4;4;3;3;4
+286;homme;30-39 ans;classe supérieure;150-200;domicile-travail;classique;8;3;4;3;4;5;5;5;5;5;4;4;4;4;4;4;4;5;5
+287;homme;30-39 ans;classe moyenne;150-200;personnels et loisirs;discret / sobre;9;4;4;4;4;5;5;4;5;5;4;4;5;5;4;4;5;5;5
+288;homme;40-49 ans;classe supérieure;250-400;domicile-travail;innovant nouveau;6;1;3;5;2;2;5;3;5;5;1;5;5;3;5;3;3;2;4
+289;homme;40-49 ans;classe moyenne;150-200;domicile-travail;innovant nouveau;10;5;5;5;5;5;4;5;5;5;1;5;5;5;5;5;5;4;5
+290;homme;30-39 ans;employé;250-400;domicile-travail;innovant nouveau;8;2;5;5;3;5;5;3;5;5;2;5;5;5;5;5;2;5;5
+291;homme;25-29 ans;classe moyenne;125;personnels et loisirs;innovant nouveau;8;3;3;5;4;5;5;4;5;5;3;5;5;5;2;4;5;5;5
+292;homme;30-39 ans;employé;125;domicile-travail;discret / sobre;6;2;5;4;5;4;5;5;5;5;4;3;1;5;4;4;5;5;5
+293;homme;30-39 ans;ouvrier;150-200;personnels et loisirs;sportif;8;2;5;4;4;5;3;5;4;5;5;4;3;3;4;4;3;4;4
+294;femme;30-39 ans;classe moyenne;150-200;domicile-travail;à la mode;8;4;4;4;5;5;4;3;3;2;1;3;4;2;5;3;5;4;4
+295;homme;20-24 ans;inactif;125;domicile-travail;à la mode;8;4;3;4;3;4;4;4;2;2;1;2;2;2;4;4;4;4;4
+296;homme;50 et +;classe moyenne;250-400;domicile-travail;classique;9;5;5;5;4;5;5;5;4;5;1;5;1;5;5;5;4;5;5
+297;homme;50 et +;classe moyenne;150-200;personnels et loisirs;innovant nouveau;7;3;5;5;5;5;3;5;5;5;1;3;4;4;4;5;4;5;5
+298;femme;20-24 ans;employé;125;personnels et loisirs;ressemble à une moto;9;1;3;4;4;3;3;3;4;4;1;2;4;2;3;4;5;3;4
+299;homme;40-49 ans;ouvrier;250-400;domicile-travail;innovant nouveau;8;4;5;5;5;5;3;4;4;5;3;4;4;4;5;5;4;5;5
+300;homme;50 et +;inactif;250-400;personnels et loisirs;classique;9;4;4;4;4;4;2;5;4;4;3;4;4;4;4;4;4;4;4
+301;homme;20-24 ans;classe moyenne;100;domicile-travail;sportif;8;3;5;4;5;5;5;4;5;4;5;4;4;4;5;4;4;5;5
+302;homme;18-19 ans;inactif;100;personnels et loisirs;ressemble à une moto;10;3;4;5;5;5;5;4;5;5;1;3;4;4;5;4;4;5;5
+303;homme;18-19 ans;inactif;100;personnels et loisirs;sportif;9;4;4;4;5;4;4;5;5;4;4;5;4;4;4;4;5;5;5
+304;homme;30-39 ans;classe moyenne;100;personnels et loisirs;classique;9;1;4;5;5;5;5;5;3;5;5;5;3;5;4;4;4;2;4
+305;homme;30-39 ans;classe supérieure;100;domicile-travail;innovant nouveau;8;2;2;4;4;4;4;3;4;3;4;4;4;4;2;3;5;5;3
+306;homme;30-39 ans;employé;100;domicile-travail;discret / sobre;3;2;2;5;5;2;1;4;3;2;3;5;2;5;1;1;1;5;2
+307;homme;30-39 ans;employé;100;domicile-travail;innovant nouveau;9;5;4;5;4;5;4;3;4;4;4;4;4;4;5;5;4;4;5
+308;homme;30-39 ans;inactif;100;personnels et loisirs;classique;8;1;5;4;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5
+309;homme;18-19 ans;inactif;100;domicile-travail;innovant nouveau;6;3;5;5;4;5;5;5;4;5;5;5;5;5;5;5;1;4;5
+310;homme;20-24 ans;inactif;100;professionnel;discret / sobre;8;5;4;5;5;5;5;5;5;4;4;2;4;4;2;2;5;5;4
+311;homme;40-49 ans;employé;100;personnels et loisirs;discret / sobre;8;4;4;3;4;5;4;5;4;4;4;4;4;4;4;4;3;2;4
+312;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;8;4;4;5;5;5;5;4;4;4;5;5;5;5;2;2;5;5;3
+313;femme;30-39 ans;employé;100;personnels et loisirs;classique;10;2;2;5;5;5;3;4;4;3;3;5;2;4;2;2;3;4;5
+314;homme;20-24 ans;inactif;100;professionnel;innovant nouveau;8;2;3;5;5;5;2;5;3;3;4;4;3;4;2;4;4;3;2
+315;homme;25-29 ans;ouvrier;100;personnels et loisirs;innovant nouveau;10;4;3;5;5;4;3;4;3;5;3;3;3;4;4;4;1;4;4
+316;homme;40-49 ans;classe moyenne;100;domicile-travail;à la mode;8;5;5;5;3;4;3;4;5;4;4;2;4;3;4;3;5;4;5
+317;homme;30-39 ans;classe moyenne;100;domicile-travail;sportif;7;2;4;4;4;3;1;4;3;2;4;3;3;3;2;2;4;3;3
+318;homme;40-49 ans;classe moyenne;100;domicile-travail;sportif;8;5;2;5;3;4;1;4;5;4;4;3;2;3;1;3;1;5;4
+319;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;10;2;4;4;4;2;1;4;4;4;4;4;1;2;4;2;1;5;5
+320;homme;50 et +;ouvrier;100;domicile-travail;innovant nouveau;7;3;1;1;5;1;1;1;1;1;1;1;1;1;1;1;4;4;2
+321;femme;18-19 ans;inactif;100;domicile-travail;classique;8;3;3;4;4;4;4;4;4;4;3;3;3;3;4;4;4;4;4
+322;homme;40-49 ans;employé;100;domicile-travail;classique;9;3;1;5;4;4;3;5;5;5;5;4;5;4;1;4;4;5;4
+323;homme;30-39 ans;employé;100;domicile-travail;innovant nouveau;8;5;4;5;5;4;3;1;1;2;2;4;3;3;2;2;2;5;5
+324;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;10;5;5;5;5;4;4;4;5;5;5;4;5;3;4;4;5;5;5
+325;homme;25-29 ans;employé;100;personnels et loisirs;sportif;8;5;4;5;5;5;5;4;5;5;4;4;5;5;5;5;5;5;4
+326;homme;25-29 ans;classe moyenne;100;domicile-travail;innovant nouveau;8;5;5;5;3;5;5;4;5;5;4;5;5;5;5;5;1;5;5
+327;homme;30-39 ans;ouvrier;100;professionnel;classique;7;5;2;5;2;5;5;3;5;5;3;5;5;5;4;5;2;5;5
+328;homme;20-24 ans;inactif;100;domicile-travail;classique;6;2;4;4;5;3;2;3;4;5;2;2;3;3;4;3;4;4;4
+329;homme;30-39 ans;employé;125;personnels et loisirs;sportif;8;5;4;5;5;5;4;5;4;5;4;5;5;5;4;4;5;5;5
+330;homme;30-39 ans;classe supérieure;100;domicile-travail;sportif;6;5;1;5;5;1;1;1;1;4;4;4;1;1;5;1;1;1;1
+331;homme;30-39 ans;ouvrier;100;domicile-travail;classique;7;5;5;5;5;5;5;5;5;5;5;1;1;5;5;3;5;5;5
+332;homme;30-39 ans;ouvrier;100;professionnel;classique;8;5;3;5;5;4;3;4;5;5;5;3;5;4;4;5;5;5;4
+333;homme;18-19 ans;inactif;100;personnels et loisirs;discret / sobre;8;3;3;4;4;4;3;4;3;4;4;3;2;3;4;4;2;5;5
+334;homme;25-29 ans;ouvrier;100;professionnel;sportif;9;4;3;4;4;3;2;4;4;4;2;3;2;2;2;2;1;2;4
+335;homme;50 et +;inactif;100;personnels et loisirs;discret / sobre;8;2;4;5;4;4;4;5;4;5;1;3;1;4;4;3;5;5;5
+336;homme;25-29 ans;classe supérieure moyenne;100;domicile-travail;discret / sobre;9;5;4;5;5;2;2;5;5;5;1;1;1;3;5;2;1;5;5
+337;homme;40-49 ans;classe moyenne;100;domicile-travail;discret / sobre;9;5;5;3;5;3;3;5;4;3;5;3;5;3;3;3;5;5;5
+338;femme;20-24 ans;employé;100;professionnel;à la mode;10;2;4;5;5;5;5;4;5;4;5;4;3;4;1;2;1;3;4
+339;homme;50 et +;employé;100;domicile-travail;innovant nouveau;8;5;5;5;5;5;4;5;5;4;5;4;3;5;5;2;2;4;4
+340;homme;20-24 ans;employé;100;personnels et loisirs;discret / sobre;8;3;5;5;5;5;5;4;4;5;4;4;3;4;3;4;5;5;5
+341;homme;30-39 ans;employé;100;domicile-travail;discret / sobre;8;1;2;5;5;4;4;3;5;5;4;2;1;2;5;4;1;2;3
+342;homme;20-24 ans;inactif;100;domicile-travail;ressemble à une moto;9;5;5;5;5;4;3;5;5;5;5;5;1;3;3;3;4;5;5
+343;homme;25-29 ans;classe moyenne;100;personnels et loisirs;classique;9;1;1;5;5;3;3;5;5;4;5;3;1;3;2;3;1;5;5
+344;homme;20-24 ans;ouvrier;100;domicile-travail;classique;8;3;5;5;5;4;4;3;4;5;3;3;3;3;3;3;1;5;5
+345;homme;20-24 ans;ouvrier;100;personnels et loisirs;sportif;5;5;5;5;4;4;4;4;5;5;4;4;2;2;4;2;2;5;5
+346;homme;20-24 ans;inactif;100;personnels et loisirs;innovant nouveau;8;2;4;5;4;2;1;4;2;4;2;3;1;4;5;1;1;3;4
+347;homme;20-24 ans;inactif;100;domicile-travail;sportif;8;4;4;5;5;3;3;4;5;2;5;1;1;2;2;2;1;4;4
+348;homme;30-39 ans;ouvrier;100;domicile-travail;ressemble à une moto;6;5;2;3;4;4;2;2;5;2;2;1;2;3;2;2;3;4;4
+349;homme;30-39 ans;employé;100;professionnel;innovant nouveau;7;3;2;4;4;3;2;2;2;3;2;3;3;3;3;3;4;4;4
+350;homme;18-19 ans;inactif;100;domicile-travail;discret / sobre;8;1;5;3;4;3;3;5;5;5;1;1;2;3;5;2;5;5;5
+351;homme;40-49 ans;classe moyenne;100;domicile-travail;innovant nouveau;7;5;3;4;5;5;3;5;5;4;2;2;5;3;4;3;5;5;5
+352;homme;20-24 ans;inactif;100;personnels et loisirs;sportif;7;2;4;5;4;5;3;4;2;4;4;1;4;2;2;3;4;4;3
+353;homme;18-19 ans;inactif;100;personnels et loisirs;innovant nouveau;8;3;4;5;4;4;5;3;4;5;3;3;4;3;4;4;5;5;5
+354;femme;30-39 ans;ouvrier;100;personnels et loisirs;innovant nouveau;8;2;5;5;5;4;4;5;4;5;5;5;4;4;5;5;5;5;5
+355;femme;40-49 ans;classe moyenne;100;domicile-travail;innovant nouveau;10;3;5;5;5;4;4;4;3;4;3;3;3;3;3;4;3;4;4
+356;femme;20-24 ans;inactif;100;personnels et loisirs;sportif;9;1;1;4;5;4;3;5;5;4;1;1;1;4;5;3;1;5;5
+357;homme;40-49 ans;classe moyenne;100;domicile-travail;innovant nouveau;7;3;4;5;4;5;5;5;2;2;5;4;5;5;2;2;5;5;5
+358;homme;50 et +;ouvrier;100;domicile-travail;à la mode;9;5;5;5;5;4;4;4;5;5;5;5;4;4;3;4;5;4;4
+359;homme;40-49 ans;inactif;100;personnels et loisirs;classique;7;3;4;5;5;3;3;5;4;3;2;3;3;3;4;3;4;5;5
+360;femme;30-39 ans;employé;100;domicile-travail;discret / sobre;5;5;5;5;5;5;5;1;4;5;1;5;1;1;3;3;1;1;5
+361;homme;30-39 ans;classe supérieure;100;domicile-travail;discret / sobre;9;5;5;5;5;4;2;5;5;5;1;1;1;5;5;2;3;5;5
+362;homme;40-49 ans;classe moyenne;100;domicile-travail;sportif;4;1;2;5;3;5;4;5;1;4;5;4;5;5;4;4;5;5;5
+363;homme;30-39 ans;classe supérieure moyenne;100;domicile-travail;discret / sobre;2;1;3;4;5;5;5;5;5;1;5;5;5;5;4;5;5;5;5
+364;homme;18-19 ans;inactif;100;personnels et loisirs;sportif;7;4;4;5;5;5;5;4;4;4;4;4;4;4;4;4;5;4;5
+365;homme;16-17 ans;inactif;100;personnels et loisirs;sportif;7;2;5;5;5;5;5;4;4;4;5;5;4;4;4;4;4;4;3
+366;femme;20-24 ans;inactif;100;domicile-travail;à la mode;7;1;5;4;4;4;4;3;4;4;1;3;3;1;4;3;3;5;3
+367;homme;25-29 ans;classe supérieure moyenne;100;domicile-travail;discret / sobre;7;4;3;5;5;4;4;2;2;3;1;1;2;1;3;1;5;4;5
+368;homme;40-49 ans;classe supérieure;100;domicile-travail;sportif;8;2;3;4;4;3;3;4;3;4;3;2;2;2;3;2;1;1;4
+369;homme;25-29 ans;ouvrier;100;personnels et loisirs;classique;7;4;4;5;5;5;4;4;5;5;4;4;4;5;4;4;4;4;5
+370;homme;40-49 ans;classe supérieure moyenne;100;personnels et loisirs;classique;7;4;4;5;4;5;3;4;5;5;4;3;3;3;3;3;4;5;5
+371;femme;30-39 ans;classe moyenne;100;personnels et loisirs;sportif;9;4;3;3;3;4;4;3;3;3;2;2;4;2;2;2;4;4;4
+372;femme;20-24 ans;inactif;100;personnels et loisirs;sportif;10;2;3;5;5;4;3;5;4;4;4;4;4;3;3;3;5;4;5
+373;homme;50 et +;inactif;100;personnels et loisirs;classique;6;1;3;2;4;3;1;2;2;3;3;1;1;1;2;2;1;2;3
+374;homme;40-49 ans;classe moyenne;100;personnels et loisirs;discret / sobre;7;3;4;5;5;3;2;5;3;4;3;4;2;2;3;2;1;3;4
+375;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;9;5;5;3;3;5;5;5;5;5;5;3;2;4;5;5;1;4;5
+376;homme;25-29 ans;employé;100;personnels et loisirs;sportif;7;2;2;5;4;5;4;5;5;5;5;3;4;5;5;4;1;5;5
+377;homme;30-39 ans;classe supérieure moyenne;100;professionnel;classique;7;4;4;4;5;4;2;2;4;2;4;2;4;4;4;2;4;4;4
+378;homme;40-49 ans;employé;100;personnels et loisirs;innovant nouveau;8;2;2;5;5;4;4;4;2;2;2;2;2;2;2;2;1;2;2
+379;homme;30-39 ans;employé;100;domicile-travail;discret / sobre;6;4;3;4;4;4;4;4;4;3;1;3;4;4;4;2;4;4;4
+380;homme;20-24 ans;inactif;100;personnels et loisirs;discret / sobre;7;4;4;4;5;2;1;1;4;4;4;1;1;4;4;1;2;4;4
+381;homme;50 et +;employé;100;domicile-travail;classique;4;3;4;4;5;5;5;5;4;4;4;4;4;4;4;4;5;4;1
+382;homme;25-29 ans;employé;100;domicile-travail;innovant nouveau;7;2;4;5;5;4;4;5;4;4;4;4;4;4;4;4;5;5;5
+383;homme;20-24 ans;classe moyenne;100;professionnel;innovant nouveau;9;3;4;5;5;4;4;5;5;5;5;5;4;4;5;3;5;5;5
+384;homme;40-49 ans;employé;100;domicile-travail;discret / sobre;9;3;4;5;5;5;4;3;4;4;4;5;5;4;4;4;5;5;5
+385;homme;30-39 ans;inactif;100;personnels et loisirs;classique;5;4;4;4;4;5;5;5;5;4;4;4;4;4;4;4;5;3;5
+386;homme;50 et +;inactif;100;personnels et loisirs;classique;6;4;4;4;4;4;4;5;5;5;4;5;5;5;4;4;5;3;5
+387;femme;30-39 ans;employé;100;domicile-travail;sportif;9;3;5;5;4;4;4;5;3;3;5;3;3;4;3;3;5;5;4
+388;homme;40-49 ans;employé;100;domicile-travail;à la mode;9;5;5;5;5;5;3;4;5;4;5;4;4;3;4;4;5;5;5
+389;homme;25-29 ans;employé;100;domicile-travail;sportif;8;2;3;4;4;4;1;4;3;3;3;3;2;4;3;3;1;4;5
+390;homme;50 et +;employé;100;domicile-travail;discret / sobre;7;4;4;3;4;5;3;4;4;5;5;4;4;4;3;3;5;5;4
+391;homme;40-49 ans;employé;100;domicile-travail;classique;5;2;1;3;5;3;3;5;5;5;5;2;5;5;5;4;5;5;5
+392;femme;16-17 ans;inactif;100;personnels et loisirs;sportif;10;1;4;5;5;5;5;4;4;3;5;5;1;1;1;2;2;5;5
+393;femme;40-49 ans;ouvrier;100;personnels et loisirs;innovant nouveau;6;5;4;5;4;4;4;5;5;5;5;5;5;5;4;4;5;5;5
+394;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;8;1;1;4;5;4;2;2;4;5;3;4;4;4;2;2;1;5;5
+395;homme;50 et +;classe moyenne;100;domicile-travail;classique;7;5;5;4;4;4;4;3;3;4;3;3;4;4;3;2;4;4;5
+396;homme;25-29 ans;inactif;100;personnels et loisirs;sportif;8;4;5;5;4;4;4;2;4;4;3;4;5;2;3;3;1;2;4
+397;homme;20-24 ans;inactif;100;personnels et loisirs;discret / sobre;8;1;4;5;3;3;3;2;4;5;3;4;2;4;5;3;1;3;4
+398;femme;30-39 ans;ouvrier;100;personnels et loisirs;classique;7;1;3;5;5;5;5;5;3;5;5;3;3;5;4;4;4;4;3
+399;femme;40-49 ans;classe moyenne;100;personnels et loisirs;sportif;6;3;4;5;5;3;3;3;3;5;1;3;1;1;1;1;3;4;3
+400;homme;20-24 ans;inactif;100;personnels et loisirs;sportif;8;1;4;4;4;5;5;4;4;4;5;5;4;3;5;5;4;4;1
+401;homme;40-49 ans;employé;100;domicile-travail;discret / sobre;7;1;2;3;5;4;4;5;5;2;1;1;4;5;4;1;5;1;2
+402;homme;30-39 ans;ouvrier;100;domicile-travail;sportif;9;2;3;5;3;3;2;5;4;4;4;4;4;4;3;2;4;5;5
+403;homme;25-29 ans;classe moyenne;100;personnels et loisirs;classique;6;1;1;5;5;5;1;5;1;5;1;5;5;5;5;1;1;5;5
+404;femme;20-24 ans;inactif;100;personnels et loisirs;discret / sobre;7;4;2;3;5;4;3;1;3;3;1;1;1;2;2;2;1;1;3
+405;homme;30-39 ans;employé;100;domicile-travail;à la mode;8;4;1;5;5;4;2;5;3;4;1;2;2;3;1;1;1;2;3
+406;femme;50 et +;inactif;100;personnels et loisirs;discret / sobre;8;4;1;4;4;4;3;5;4;4;4;3;3;3;3;3;5;5;5
+407;femme;20-24 ans;employé;100;personnels et loisirs;sportif;8;5;4;5;5;4;2;5;4;3;4;3;3;4;1;1;2;4;5
+408;homme;20-24 ans;ouvrier;100;domicile-travail;sportif;9;5;4;4;4;4;5;4;5;4;4;3;3;5;4;2;1;4;4
+409;homme;20-24 ans;inactif;100;personnels et loisirs;sportif;8;2;3;4;5;4;2;4;5;4;4;2;2;4;3;4;1;3;5
+410;homme;40-49 ans;employé;100;domicile-travail;discret / sobre;7;2;2;5;5;4;4;5;5;4;4;5;5;5;4;4;4;4;4
+411;homme;40-49 ans;employé;100;personnels et loisirs;discret / sobre;7;1;4;3;5;4;3;3;1;3;3;1;2;2;3;3;1;5;5
+412;homme;18-19 ans;inactif;100;personnels et loisirs;à la mode;9;4;5;5;4;5;2;5;2;5;3;5;5;4;3;3;3;5;5
+413;homme;18-19 ans;inactif;100;personnels et loisirs;à la mode;9;3;5;5;4;5;2;4;3;5;3;3;5;4;3;3;2;5;5
+414;femme;25-29 ans;employé;100;domicile-travail;à la mode;9;4;5;5;5;5;4;5;3;3;3;4;4;4;2;2;3;4;4
+415;femme;30-39 ans;classe moyenne;100;personnels et loisirs;à la mode;10;5;5;5;5;5;2;5;2;5;2;5;4;4;2;2;3;5;4
+416;homme;18-19 ans;inactif;100;personnels et loisirs;à la mode;10;2;5;5;3;5;2;4;1;5;1;5;4;3;1;1;3;5;5
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
