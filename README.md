@@ -1,8 +1,8 @@
-# 📊 Machine Learning Projects Repository
+# 📊 Data Science Projects
 
 ## 📌 Description
 
-Ce dépôt est un recueil de plusieurs projets de **machine learning** réalisés dans différents contextes (apprentissage, expérimentation, tests de modèles, etc.).
+Ce dépôt regroupe un ensemble de projets en **data science**, réalisés dans différents contextes : apprentissage, expérimentation et exploration de modèles.
 
 L’objectif principal est de regrouper en un seul endroit plusieurs travaux couvrant différentes problématiques et techniques en data science.
 
@@ -13,36 +13,53 @@ L’objectif principal est de regrouper en un seul endroit plusieurs travaux cou
 Chaque dossier correspond à un projet indépendant pouvant inclure :
 
 * Préparation et nettoyage des données
-* Analyse exploratoire (EDA)
+* Analyse exploratoire (**EDA**)
 * Feature engineering
+* Implémentation d’algorithmes (ML, simulation, graphes, etc.)
 * Entraînement de modèles (régression, classification, etc.)
 * Évaluation des performances (RMSE, MSE, accuracy, etc.)
-* Visualisations
+* Visualisations et interprétation des résultats
 
 ---
+
+## 🔬 Types de projets
+
+Les projets couvrent plusieurs domaines :
+
+* 🤖 Machine Learning
+* 📊 Statistiques
+* 🌐 Graphes (PageRank, etc.)
+* 🎲 Simulation (Monte Carlo, modèle d’Ising)
+
+---
+
 ## 📂 Structure
 
 ```
 .
-├── projet_1/
-├── projet_2/
-├── projet_3/
+├── projet1/
+├── projet2/
+├── projet3/
 └── README.md
 ```
 
 ---
 
-## 🚀 Objectif
+## 🚀 Objectifs
 
-Ce repository sert à :
+Ce repository a pour but de :
 
-* Centraliser différents projets de machine learning
-* Tester et comparer des approches
+* Centraliser différents projets en data science
+* Explorer des problématiques variées (ML, stats, simulation)
+* Implémenter des concepts théoriques en pratique
+* Tester et comparer différentes approches
 
 ---
 
 ## 📎 Remarques
 
-Les projets peuvent varier en niveau de complexité et ne sont pas forcément optimisés pour la production. Ils ont avant tout un objectif pédagogique et exploratoire.
+Les projets peuvent varier en complexité et ne sont pas nécessairement optimisés pour un usage en production.
+
+Ils ont avant tout une vocation **pédagogique**, **expérimentale** et **exploratoire**.
 
 ---
