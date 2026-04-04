@@ -6,16 +6,11 @@ import matplotlib.pyplot as plt
 @njit
 def create_Materiaux(N, mode=1):
     shape = 2 * N + 1
-    mat = np.empty((shape, shape), dtype=np.int8)
-    for i in range(shape):
-        for j in range(shape):
-            mat[i, j] = 1 if np.random.rand() > 0.5 else -1
-    m = np.int8(mode)
-    for i in range(shape):
-        mat[0, i] = m
-        mat[-1, i] = m
-        mat[i, 0] = m
-        mat[i, -1] = m
+    mat = np.full((shape, shape), np.int8(mode))
+    n = shape - 1
+    for i in range(1,n):
+        for j in range(1,n):
+            mat[i, j] = np.int8(1) if np.random.rand() > 0.5 else np.int8(-1)
     return mat
 
 @njit
@@ -29,20 +24,22 @@ def energie(mat):
     return -energ
 
 @njit
+def delta_energie(mat, i, j):
+    # Lecture directe des voisins — les bords fixes sont déjà dans la matrice
+    voisins = (mat[i-1, j] + mat[i+1, j] +
+               mat[i, j-1] + mat[i, j+1])
+    return 2 * mat[i, j] * voisins
+
+@njit
 def monte_carlo_iteration(mat, T):
-    N = mat.shape[0]
-    a = np.random.randint(0, N)
-    b = np.random.randint(0, N)
+    N = mat.shape[0] - 1
+    a = np.random.randint(1, N)
+    b = np.random.randint(1, N)
 
-    e1 = energie(mat)
-    mat[a, b] = -mat[a, b]   # tentative de flip
-    e2 = energie(mat)
-
-    dE = e2 - e1
-
+    dE = delta_energie(mat, a, b)
     # règle de Metropolis
-    if not (dE <= 0 or np.random.rand() < np.exp(-dE / T)):
-        mat[a, b] = -mat[a, b]  # on annule le flip
+    if dE <= 0 or np.random.rand() < np.exp(-dE / T):
+        mat[a, b] *= -1
 
 @njit(parallel=True)
 def Ising(converge, sim, N, Tmin, Tmax, nb_point):
@@ -51,29 +48,28 @@ def Ising(converge, sim, N, Tmin, Tmax, nb_point):
 
     for j in prange(nb_point):
         mat = create_Materiaux(N)
-
         for _ in range(converge):
             monte_carlo_iteration(mat, temp[j])
-
+        # Loi forte des grands nombres pour les chaînes de Markov :
         acc = 0.0
         for _ in range(sim):
             monte_carlo_iteration(mat, temp[j])
             acc += mat[N, N]  
 
-        esp[j] = acc / (sim + 1)
+        esp[j] = acc / sim 
 
     return temp, esp
 
-N = 3
-converge = 10**7
+N = 20
+converge =  10**9
 sim = converge
 Tmin = 0.1
 Tmax = 4
 nb_point = 10
 mat = create_Materiaux(N)
-start = time.time()
+start = time.perf_counter()
 temp,simul = Ising(converge,sim,N,Tmin,Tmax,nb_point)
-durée = round(time.time() - start)
+durée = round(time.perf_counter() - start)
 plt.plot(temp,simul)
 plt.title(f"N = {N}, sim ={sim}, time={durée}, points = {nb_point}")
 plt.xlabel("Température")
