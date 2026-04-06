@@ -2,11 +2,16 @@ from numba import njit, prange
 import numpy as np
 import time
 import matplotlib.pyplot as plt
+import logging
+
+logging.basicConfig(level=logging.INFO)
+
+logger = logging.getLogger(__name__)
 
 @njit
-def create_Materiaux(N):
+def create_Materiaux(N: int, mode: int) -> np.ndarray:
     shape = 2 * N + 1
-    mat = np.ones((shape, shape), dtype=np.int8)
+    mat = np.full((shape, shape), mode, dtype=np.int8)
     for i in range(1, shape - 1):
         for j in range(1, shape - 1):
             if np.random.rand() > 0.5:
@@ -16,7 +21,7 @@ def create_Materiaux(N):
     return mat
 
 @njit(parallel=True)
-def simulation_ising(converge, sim, N, Tmin, Tmax, nb_point):
+def simulation_ising(converge: int, sim: int, N: int, Tmin: float, Tmax: float, nb_point: int, mode: int = 1) -> tuple[np.ndarray, np.ndarray]:
     temp_list = np.linspace(Tmin, Tmax, nb_point)
     esp_resultats = np.zeros(nb_point)
     L = 2 * N + 1 
@@ -27,7 +32,7 @@ def simulation_ising(converge, sim, N, Tmin, Tmax, nb_point):
         p4 = np.exp(-4.0 / T)
         p8 = np.exp(-8.0 / T)
         
-        mat = create_Materiaux(N)
+        mat = create_Materiaux(N, mode)
         
         for _ in range(converge):
             a = np.random.randint(1, L - 1)
@@ -68,29 +73,28 @@ def simulation_ising(converge, sim, N, Tmin, Tmax, nb_point):
 
     return temp_list, esp_resultats
 
-# --- Paramètres de simulation ---
-N = 100
-converge = 10**9 
-sim = converge
-Tmin = 0.5
-Tmax = 4.0
-nb_point = 25
+if __name__ == "__main__":
+    N = 25
+    converge = 10**7 
+    sim = converge
+    Tmin = 0.5
+    Tmax = 4.0
+    nb_point = 25
+    mode = -1
+    logger.info(f"Lancement de la simulation {N=}, {sim=}, {mode=}...")
+    start = time.perf_counter()
 
-print(f"Lancement de la simulation (N={N}, itérations={sim})...")
-start = time.perf_counter()
+    temp, esperance = simulation_ising(converge, sim, N, Tmin, Tmax, nb_point, mode)
 
-temp, esperance = simulation_ising(converge, sim, N, Tmin, Tmax, nb_point)
+    duree = round(time.perf_counter() - start)
+    logger.info(f"Simulation terminée en {duree} secondes.")
 
-duree = round(time.perf_counter() - start)
-print(f"Simulation terminée en {duree} secondes.")
-
-# --- Visualisation ---
-plt.figure(figsize=(10, 6))
-plt.plot(temp, esperance, 'o-', label=f'N={N}')
-plt.axvline(x=2.269, color='r', linestyle='--', label='Tc ≈ 2.27 (Théorique)')
-plt.title(f"Transition de phase : $E_{{N,T}}^+[\sigma(0)]$ (sim={sim})")
-plt.xlabel("Température (T)")
-plt.ylabel("Espérance du spin à l'origine")
-plt.legend()
-plt.grid(True)
-plt.show()
+    plt.figure(figsize=(10, 6))
+    plt.plot(temp, esperance, 'o-', label=f'N={N}')
+    plt.axvline(x=2.269, color='r', linestyle='--', label='Tc ≈ 2.27 (Théorique)')
+    plt.title(f"Transition de phase: {sim=}, {mode=}")
+    plt.xlabel("Température (T)")
+    plt.ylabel("Espérance du spin à l'origine")
+    plt.legend()
+    plt.grid(True)
+    plt.show()
